@@ -1,0 +1,8 @@
+TCP/IP - Transmision Control Protocol/Internet Protocol. The fundamental suite internet communication
+HTTP/HTTPS - For web browsing and secure data transfer on the web. 
+FTP/SFTP - File transfer protocols.
+SMTP/POP3/IMAP - Email communication protocols.
+DNS - For domain name resolution.
+DHCP - For automatic IP address assignment.
+SSL/TLS - For secure, encrypted communication
+UDP - For fast, connectionless data tranmission 
