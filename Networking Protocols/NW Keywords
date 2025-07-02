@@ -6,3 +6,9 @@ DNS - For domain name resolution.
 DHCP - For automatic IP address assignment.
 SSL/TLS - For secure, encrypted communication
 UDP - For fast, connectionless data tranmission 
+
+
+Networking Operation System
+- Linux
+- MacOs
+- Windows
